@@ -1,0 +1,4 @@
+BioSample	Organism	IsoationSource	Strain	Host
+SAMN02953593	Fusarium graminearum PH-1	None	PH-1; NRRL 31084 	None
+SAMN02953596	Pyricularia oryzae 70-15	None	70-15 	None
+SAMN02900459	Ustilago maydis 521	None	521 	None
