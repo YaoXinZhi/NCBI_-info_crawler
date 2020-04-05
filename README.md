@@ -1,2 +1,2 @@
-# NCBI_-info_crawler
-NCBI_***info_crawler for friend.
+# NCBI_-info_crawler  
+NCBI Crawlingfor friend.
